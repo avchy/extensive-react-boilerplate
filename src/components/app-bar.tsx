@@ -66,6 +66,7 @@ function ResponsiveAppBar() {
               textDecoration: "none",
             }}
           >
+            My 
             {t("common:app-name")}
           </Typography>
 
